@@ -5,9 +5,9 @@
 - 📫 E-mail para contato: micheldias9@gmail.com
 
 <a href="https://github.com/michelfelix">
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelfelix&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelfelix&layout=compact&langs_count=16"/>
+  <div align="center">
+    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=michelfelix&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelfelix&layout=compact&langs_count=16"/>
   </div>
 </a>
 
