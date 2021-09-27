@@ -1,7 +1,7 @@
 ### Bem vindo, eu sou o Michel! 😃
 
 - 🔭 Hoje trabalho com front-end.
-- 🌱 Vanilla JS, React e Angular.
+- 🌱 HTML, CSS, Vanilla JS, React e Angular.
 - 📫 E-mail para contato: micheldias9@gmail.com
 
 <a href="https://github.com/michelfelix">
